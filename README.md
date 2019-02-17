@@ -24,9 +24,9 @@ Our final submission files contains a model which a good balance between bias an
 
 <b>Now we will be taking about the preprocessing part of the data and how we went about it using various logical deductions based on concrete postulations.</b><br>
 
-<b>SameKey<b>- Dataset which has the same set of combinations of County, State and bid_id in both the provided test and train.<br> 
+<b>SameKey</b>- Dataset which has the same set of combinations of County, State and bid_id in both the provided test and train.<br> 
 
-<b>UniqueKey<b>- Dataset which has the combination of County, State and bid_id which are in the test but not in the train.<br>
+<b>UniqueKey</b>- Dataset which has the combination of County, State and bid_id which are in the test but not in the train.<br>
 
 1.	After merging our test data with the same keys or the unique keys we dropped the following features to create two new data frames (df1 and df2) from the test and train .<br>
 
