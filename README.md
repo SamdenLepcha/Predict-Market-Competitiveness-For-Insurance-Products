@@ -64,5 +64,3 @@ All these features(specially the last 5) can be understood properly with the hel
 
 <b>MOOP</b>- Medicare Advantage plan’s MOOP or Maximum Out-of-Pocket limit is the total amount one needs to spend in a year on co-payments and co-insurance for covered or eligible medical services.  So, when one has reached his/her annual MOOP limit, his/her Medicare Advantage plan's eligible medical services are covered for the remainder of the year at no cost to him/her.<br>
 
-
-![51047931_2151868531502920_5347948296063156224_o](https://user-images.githubusercontent.com/33536225/52916173-38f45a80-3302-11e9-9248-064fadef3876.jpg)
