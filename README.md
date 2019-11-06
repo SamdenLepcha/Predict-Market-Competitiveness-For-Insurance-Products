@@ -1,4 +1,7 @@
 # Predict-Market-Competitiveness-For-Insurance-Products
+
+![Snapshot](https://user-images.githubusercontent.com/33536225/68280273-378ade00-009b-11ea-8a8e-c97617f217e1.JPG)
+
 This repository contains the approach that led us to win the MLDS Republic Day <a href="https://www.machinehack.com/course/offline-hackathon-republic-day-hackathon-by-teg-analytics-and-aim/">Hackathon</a>. This <a href="https://www.analyticsindiamag.com/how-these-data-science-enthusiasts-from-christ-university-solved-our-insurance-products-hackathon/">link</a> contains the article featuring us in the Analytics India Magazine.<br>
 
 This data science hackathon was conducted by TEG Analytics and Analytics India Magazine.The theme of the data science hackathon is “Predict Market Competitiveness For Insurance Products”. The description for the hackathon can be found <a href="https://github.com/SamdenLepcha/Predict-Market-Competitiveness-For-Insurance-Products/blob/master/Republic%20Day%20Hackathon.pdf">here</a>. <br>
